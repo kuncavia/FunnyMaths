@@ -11,7 +11,7 @@ class Customer {
     info(): void{
         console.log(this.customerName);
     }
-
+    //add comment test
 }
 
 const c: Customer = new Customer("Pepo")
